@@ -1,18 +1,14 @@
 # LabEddit
 <br/>
 Libs usadas:
-<br/>
-axios
-<br/>
-react-router-dom
-<br/>
-styled-components
-<br/>
-@material-ui/core
-<br/>
-@material-ui/icons
-<br/>
-<br/>
+<li>
+<ul>axios</ul>
+<ul>react-router-dom</ul>
+<ul>styled-components</ul>
+<ul>@material-ui/core</ul>
+<ul>@material-ui/icons</ul>
+</li>
+
 
 <p>Projeto utilizando ReactJs para simular um fórum semelhante ao Reddit</p>
 <br/>
